@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;br.ufpe.cin.if992.web&apos; to &apos;FirstServletProject&apos;" description="Rename resource &apos;br.ufpe.cin.if992.web&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/br.ufpe.cin.if992.web" name="FirstServletProject" stamp="1357846799237" updateReferences="true"/>
+</session>

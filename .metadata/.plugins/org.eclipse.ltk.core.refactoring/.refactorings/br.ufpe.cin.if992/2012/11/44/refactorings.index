@@ -1,0 +1,25 @@
+1351728703267	Rename type 'DivideByZeroWithExceptionHandling'
+1351728959757	Rename local variable 'scanner'
+1351729025443	Rename local variable 'numerator'
+1351729034517	Rename local variable 'denominator'
+1351729047859	Rename method 'quotient'
+1351729081145	Rename local variable 'result'
+1351771387878	Move compilation units
+1351771392761	Delete element
+1351773686426	Delete elements
+1351773727117	Rename package 'br.ufpe.cin.if992.atm'
+1351774083640	Rename field 'userAuthenticated'
+1351774190852	Rename field 'currentAccountNumber'
+1351774207211	Rename field 'numeroAtualContaCorrente'
+1351774326609	Rename field 'keypad'
+1351774366959	Rename field 'screen'
+1351774432928	Rename field 'cashDispenser'
+1351774489022	Delete elements
+1351774983509	Move compilation units
+1351775055122	Move compilation unit
+1351775080055	Move compilation unit
+1351775195569	Rename package 'br.ufpe.cin.if992.banco.data'
+1351775203351	Move compilation units
+1351775216744	Move compilation unit
+1351775232783	Move compilation unit
+1351775243105	Move compilation unit

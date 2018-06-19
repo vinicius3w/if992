@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="junit.framework.Test"/>
+<fullyQualifiedTypeName name="junit.framework.TestSuite"/>
+<fullyQualifiedTypeName name="junit.framework.TestCase"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.conversor.CelsiusParaFahrenheit"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.escalas.Celsius"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.conversor.FahrenheitParaCelsius"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.escalas.Fahrenheit"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.escalas.Kelvin"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.tdd.temperatura.conversor.KelvinParaCelsius"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="br.ufpe.cin.if992.files.ListFilesUtil"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+</qualifiedTypeNameHistroy>

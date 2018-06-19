@@ -1,0 +1,7 @@
+127.0.0.1 - - [01/Feb/2013:10:49:54 -0300] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [01/Feb/2013:10:49:56 -0300] "GET /FirstJSPProject/index.jsp HTTP/1.1" 200 281
+127.0.0.1 - - [01/Feb/2013:10:49:56 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [01/Feb/2013:11:07:52 -0300] "GET /FirstJSPProject/index.jsp HTTP/1.1" 200 281
+127.0.0.1 - - [01/Feb/2013:11:07:52 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [01/Feb/2013:11:07:55 -0300] "GET /FirstJSPProject/index.jsp HTTP/1.1" 200 281
+127.0.0.1 - - [01/Feb/2013:11:07:55 -0300] "GET /favicon.ico HTTP/1.1" 404 973
